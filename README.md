@@ -1,4 +1,5 @@
-# Snap-Landing-Page
+# Snap-Landing-Pag
+## [Preview Link](https://snap-landing-page-ashen.vercel.app/)
 ### Just a regular landing page, built to practice with TailwindCSS
 
 ![desktop](https://user-images.githubusercontent.com/62203579/187886782-3b2d9e1a-02bf-4dea-b925-f533f85eb117.jpg)
